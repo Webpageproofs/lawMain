@@ -245,7 +245,7 @@ textarea:focus::placeholder {
         height: 100%;
         top: 0;
         right: 0;
-        background-color: #302b2a;
+        background-color: #220a0a;
         padding: 0 30px;
         padding-top: 80px;
         overflow: auto;
