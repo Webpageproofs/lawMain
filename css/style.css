@@ -776,6 +776,7 @@ textarea:focus::placeholder {
       padding-bottom: 40%; } }
 
 .slider__info {
+	width:100%;
   -webkit-box-shadow: 0 0 10px 5px #cccccc21;
   box-shadow: 0 0 10px 5px #cccccc21;
   margin-top: -50px;
