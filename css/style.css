@@ -2102,3 +2102,8 @@ body {
 .team__textes, .team__p{
 text-align: center;
 }
+@media (max-width: 576px){
+	.owl-carousel.owl-carousel1 .owl-nav{
+		display:none;
+	}
+}
