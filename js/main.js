@@ -679,7 +679,7 @@ var num_sec = 0;
 for (i = 0; i < features__col.length; i++) {
 
 	features__col[i].setAttribute("data-wow-delay", num_sec + 's');
-	num_sec += 0.5;
+	num_sec += 0.3;
 }
 var diploma__col = document.querySelectorAll(".diploma__col");
 console.log(diploma__col);
@@ -687,7 +687,7 @@ var num_sec = 0;
 for (i = 0; i < diploma__col.length; i++) {
 
 	diploma__col[i].setAttribute("data-wow-delay", num_sec + 's');
-	num_sec += 0.5;
+	num_sec += 0.3;
 }
 var social__link = document.querySelectorAll(".contacts__social .social__link");
 console.log(social__link);
