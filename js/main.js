@@ -451,6 +451,7 @@ $(document).ready(function () {
 		loop: true,
 		nav: true,
 		items: 4,
+		margin:15,
 		navText: ["<i class=\"fas fa-chevron-left\"></i>", "<i class=\"fas fa-chevron-right\"></i>"],
 		responsive:{
 			0:{
