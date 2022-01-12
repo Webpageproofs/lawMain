@@ -187,6 +187,7 @@ textarea:focus::placeholder {
     display: none; }
 
 .header {
+  background-color: #220a0a;
   background: url(../img/bg/po.jpg) center right/cover no-repeat;
   display: -webkit-box;
   display: -ms-flexbox;
