@@ -2099,3 +2099,6 @@ body {
   -webkit-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out; }
+.team__textes, .team__p{
+text-align: center;
+}
