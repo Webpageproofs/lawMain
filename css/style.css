@@ -2089,7 +2089,7 @@ body {
   text-align: center;
   color: #fff;
   border-radius: 4px;
-  background: #f8f9fa;
+  background-color: #fff;
   -webkit-box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.1);
   box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.1);
   opacity: 0;
