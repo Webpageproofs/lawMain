@@ -451,6 +451,7 @@ $(document).ready(function () {
 		loop: true,
 		nav: true,
 		items: 4,
+		smartSpeed: 1000,
 		navText: ["<i class=\"fas fa-chevron-left\"></i>", "<i class=\"fas fa-chevron-right\"></i>"],
 		responsive:{
 			0:{
@@ -471,6 +472,7 @@ $(document).ready(function () {
 		loop: true,
 		nav: true,
 		items: 1,
+		smartSpeed: 1000,
 		margin: 10,
 		navText: ["<i class=\"fas fa-chevron-left\"></i>", "<i class=\"fas fa-chevron-right\"></i>"],
 		// responsive:{
