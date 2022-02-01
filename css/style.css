@@ -238,10 +238,17 @@ textarea:focus::placeholder {
     padding-bottom: 5px;
     margin-left: 30px; }
     @media (max-width: 1050px) {
+	    	@media (max-width: 500px) {
+		.header__menu{
+			width: 100%;
+		}
+		
+	}
       .header__menu {
         position: fixed;
         z-index: 15;
-        width: 100%;
+       width: 50%;
+	      min-width: 300px;
         height: 100%;
         top: 0;
         right: 0;
