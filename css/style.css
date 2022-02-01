@@ -1071,7 +1071,7 @@ textarea:focus::placeholder {
   text-align: center; }
 
 .feedback__wrap {
-  background: url(../img/bg/book.png) top left/cover no-repeat; }
+  background: url(../img/bg/book.png) top left/cover no-repeat fixed; }
 
 .feedback__h2 {
   margin-bottom: 70px; }
