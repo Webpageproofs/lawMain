@@ -2021,8 +2021,8 @@ display: inline-block;
   border-radius: 5px;
   margin-bottom: 30px;
   text-decoration: none;
-  -webkit-box-shadow: 0 5px 10px 2px #0000000a;
-  box-shadow: 0 5px 10px 2px #0000000a; }
+  -webkit-box-shadow: 0 5px 10px 2px rgba(50,55,60,0.1);
+  box-shadow: 0 5px 10px 2px rgba(50,55,60,0.1); }
   .price__link:hover {
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
@@ -2090,8 +2090,8 @@ body {
   color: #fff;
   border-radius: 4px;
   background-color: #fff;
-  -webkit-box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.1);
-  box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.05);
   opacity: 0;
   visibility: hidden;
   -webkit-transition: all 0.3s ease-in-out;
