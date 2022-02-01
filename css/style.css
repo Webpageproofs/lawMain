@@ -2013,7 +2013,7 @@ display: inline-block;
   margin-bottom: 10px; }
 
 .price__link {
-  background-color: rgba(152, 159, 161, 0.05);
+ background-color: rgba(229, 229, 229, 0.2);
   padding: 15px 25px;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
