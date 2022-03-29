@@ -231,7 +231,7 @@ textarea:focus::placeholder {
     display: -ms-flexbox;
     display: flex;
     background-color: rgba(239, 237, 238, 0.37);
-    padding-right: 10px;
+    padding-right: 15px;
     padding-left: 10px;
     margin-right: -30px;
     padding-top: 5px;
