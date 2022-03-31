@@ -1,0 +1,72 @@
+.price__wrap {
+  padding-bottom: 100px; }
+
+.price__box {
+  margin-bottom: 40px; }
+
+.price__layout {
+  padding: 25px 0; }
+  .price__layout:nth-child(odd) {
+    background-color: rgba(229, 229, 229, 0.2); }
+
+.price__cont {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  max-width: 900px;
+  padding: 0 25px;
+  margin: 0 auto; }
+
+.price__name {
+  width: 60%;
+  margin-right: 30px; }
+
+.price__price {
+  width: 35%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-box-flex: 1;
+  -ms-flex: 1 0 auto;
+  flex: 1 0 auto; }
+
+.price__line {
+  margin-bottom: 25px;
+  width: 165px;
+  height: 0.7px;
+  background-color: rgba(0, 0, 0, 0.3); }
+
+.price__note {
+  font-weight: 500;
+  margin-bottom: 20px; }
+
+.price__p:not(:last-child) {
+  margin-bottom: 10px; }
+
+.price__link {
+  background-color: rgba(152, 159, 161, 0.05);
+  padding: 15px 25px;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  text-decoration: none;
+  -webkit-box-shadow: 0 5px 10px 2px #0000000a;
+  box-shadow: 0 5px 10px 2px #0000000a; }
+  .price__link:hover {
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+    -webkit-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    transform: scale(0.9); }
